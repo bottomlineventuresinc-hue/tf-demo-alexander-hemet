@@ -4,17 +4,17 @@ New Wave 12 files: see builds/_assets_dl/wave12/LICENSES.md for source URLs and 
 Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
 Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg <- wave12/roof-nailer-shingles.jpg : Gloved hands nailing new asphalt shingles over synthetic underlayment with a roofing nailer; no face (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Residential_Roofing_Process.jpg)
-services-trade.jpg <- wave12/roof-tile-colors.jpg : Roof tile in several colors, close-up (rawpixel CC0 1.0 https://www.rawpixel.com/image/5921610/photo-image-light-public-domain-black)
-people-crew.jpg <- wave12/roof-cracked-surface.jpg : Weathered, cracked low-slope roof surface (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_4.jpg)
-people-marek.jpg <- wave12/roof-damaged-patch.jpg : Worn roof surface with a damaged, open patch (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_3.jpg)
+hero-site.jpg <- wave12/roof-nailer-new.jpg : Gloved hands nailing new roofing over underlayment with a roofing nailer; no face (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Residential_Roofing_Process.jpg)
+services-trade.jpg <- wave12/roof-membrane-roll.jpg : Hand pressing a roll of new roofing into place along a wall; hand only (wikimedia Public domain https://commons.wikimedia.org/wiki/File:EPDM_foil.jpg)
+people-crew.jpg <- wave12/roof-lowslope-seams.jpg : Seamed low-slope roof surface, wide view; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_1.jpg)
+people-marek.jpg <- wave12/roof-lowslope-seams2.jpg : Worn seams on a low-slope roof, close view; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_2.jpg)
 people-tom.jpg <- wave12/roof-felt-battens.jpg : Roofing felt being rolled out over roof battens; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Roofing_felt_(%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D1%80%D1%83%D0%B1%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D1%832).jpg)
 coverage-house.jpg <- wave12/house-ranch-lawn.jpg : Single-story ranch home with a lawn, street view (wikimedia Public domain https://commons.wikimedia.org/wiki/File:HouseII2007.jpg)
-roof-shingles-weathered.jpg <- wave12/roof-shingles-weathered.jpg : Weathered, worn wood shingle roof with a dormer (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Damaged_Cedar_Shingles_on_Historic_Dungeness_Structures_(fd01ae0f-923e-470d-87ca-0446570e25f1).jpg)
-roof-shingle-house.jpg <- wave12/roof-shingle-house.jpg : Two-story suburban home with a newer architectural shingle roof (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/150150080@N04/34824178102)
-roof-tile-broken.jpg <- wave12/roof-tile-broken.jpg : Clay tile roof with a broken tile and an open hole (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/150150080@N04/34824178772)
-roof-tile-clay.jpg <- wave12/roof-tile-clay.jpg : Rows of terracotta clay roof tile, close-up (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Terracotta_clay_tile_(Unsplash).jpg)
-roof-tiles-pile.jpg <- wave12/roof-tiles-pile.jpg : Pile of broken red and dark roof tiles (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Broken_red_and_black_roof_tiles_2.jpg)
-roof-dormer-brown.jpg <- wave12/roof-dormer-brown.jpg : Clean brown roof with a gable dormer and chimneys (rawpixel CC0 1.0 https://www.rawpixel.com/image/6039300/house-roof-free-public-domain-cc0-photo)
+roof-worn-dormer.jpg <- wave12/roof-worn-dormer.jpg : Weathered, worn roof on a structure with a dormer; no people (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Damaged_Cedar_Shingles_on_Historic_Dungeness_Structures_(fd01ae0f-923e-470d-87ca-0446570e25f1).jpg)
+house-two-story-roof.jpg <- wave12/house-two-story-roof.jpg : Two-story suburban home with a newer roof; no people (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/150150080@N04/34824178102)
+roof-damaged-patch.jpg <- wave12/roof-damaged-patch.jpg : Worn roof surface with a damaged, open patch (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_3.jpg)
+roof-lowslope-finished.jpg <- wave12/roof-lowslope-finished.jpg : Low-slope roof with a finished, sealed covering; no people (wikimedia Public domain https://commons.wikimedia.org/wiki/File:FinishedEPDMcoveredRoof.jpg)
+roof-cracked-surface.jpg <- wave12/roof-cracked-surface.jpg : Weathered, cracked low-slope roof surface (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_4.jpg)
+roof-lowslope-new.jpg <- wave12/roof-lowslope-new.jpg : Low-slope roof with new roofing and sealed edges; no people (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Flat_roof_roofing.JPG)
 
 Note: New trade (roofing): wave12 roofing set downloaded 2026-09-29 (see builds/_assets_dl/wave12/LICENSES.md). Hero is hands only. The packet's placeholder and unrelated same-name domains are NOT used or linked.
